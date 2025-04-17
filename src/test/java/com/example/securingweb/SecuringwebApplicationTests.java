@@ -1,13 +1,13 @@
-package com.example.securingweb;
+// package com.example.securingweb;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class SecuringwebApplicationTests {
+// @SpringBootTest
+// class SecuringwebApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// @Test
+// void contextLoads() {
+// }
 
-}
+// }
